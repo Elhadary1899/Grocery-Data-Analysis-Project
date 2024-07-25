@@ -20,5 +20,5 @@ This project involves analyzing a grocery dataset using the R programming langua
 ## Time Frame
 - we started this project on the 2nd of May 2024 and I managed to finish the project on the 11th of May 2024.
 
-  ## Team
-  - A big shoutout to my incredible teammates: [Mariem Hafez], [Ahmed Amir], [Youssef Sameh], [Seif Amr], without them I wouldn't have gone far in this project.
+## Team
+- A big shoutout to my incredible teammates: [Mariem Hafez], [Ahmed Amir], [Youssef Sameh], [Seif Amr], without them I wouldn't have gone far in this project.
